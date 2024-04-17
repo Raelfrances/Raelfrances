@@ -1,11 +1,8 @@
-- 👋 Olá, sou @Raelodev
-- 👀 Estou interessado em ...AWS Cloud,Java
-- 🌱 Atualmente estou aprendendo...Ciência da Computação,AWs cloud
-- 💞️ Procuro colaborar em ...
+- 👋 Olá, sou Israel Alexandre Teófilo Santos.
+- Sou um Biomedico e apaixonado pela área de Tecnologia da Informação. Tenho um bacharelado em Ciências Biomédicas pela Universidade Cidade de São Paulo e pós-graduação em Gestão de qualidade em saúde e Acreditação Hospitalar pela Unyleya.
+- Atualmente estou cursando Analise e desenvolvimento de sistemas pelo Centro Universitário FAM . Além disso  Aprimoro conhecimentos em AWS cloud  pela Escola da Nuvem e Google Cloud pela plataforma google,  e estudo ciências da computação pela fundação Estudar. 
+Além disso Aprimoro conhecimentos em AWS cloud pela Escola da Nuvem e Google Cloud pela plataforma google, e estudo ciências da computação pela fundação Estudar onde desenvolvo as minhas habilidades em Java, Python, C, SQL que são linguagens de programação para otimizar os processos, garantir a segurança dos dados e melhorar a experiência dos clientes.
 - 📫 Como entrar em contato comigo ...linkedin.com/in/israel-santos-87aa8a2b3 
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
-
 - 
 <!---
 Raelfrances/Raelfrances is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
