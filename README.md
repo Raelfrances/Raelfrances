@@ -15,7 +15,7 @@
 
 Cursando Analise e desenvolvimento de sistemas pelo Centro Universitário FAM,  possuo um bacharelado em Ciências Biomédicas pela Universidade Cidade de São Paulo e  pós-graduação em  Gestão de qualidade em saúde e Acreditação Hospitalar pela Unyleya.
 
-Certificado pela Aws (Cloud Praticioner) desenvolvo meus conhecimentos em Cloud, Pela escola da nuvem, Realizo mentoria técnica, aos alunos da escola da , sanando as dúvidas sobre serviços da Aws, organizando e realizando simulados, com foco na certificação da aws cloud praticioner.  e busco minha primeira certificação em Google Cloud pela plataforma google foudations ,  estudo ciências da computação (CS50)  pela fundação Estudar e   desenvolvo as minhas habilidades em Backend com foco em algumas liguagens como Java,  Python , C ,banco de dados como MySQL e NoSQL, em infraestrutura de redes como protocolo TCP/IP, Modelos ISO/OSI, virtualização de maquinas e dockers, Linux, com foco em Devops.
+Certificado pela Aws (Cloud Praticioner) desenvolvo meus conhecimentos em Cloud, Pela escola da nuvem, Realizo mentoria técnica, aos alunos da escola , sanando as dúvidas sobre serviços da Aws, organizando e realizando simulados, com foco na certificação da aws cloud praticioner.  e busco minha primeira certificação em Google Cloud pela plataforma google foudations ,  estudo ciências da computação (CS50)  pela fundação Estudar e   desenvolvo as minhas habilidades em Backend com foco em algumas liguagens como Java,  Python , C ,banco de dados como MySQL e NoSQL, em infraestrutura de redes como protocolo TCP/IP, Modelos ISO/OSI, virtualização de maquinas e dockers, Linux, com foco em Devops.
  
  ## Habilidades: 
 
